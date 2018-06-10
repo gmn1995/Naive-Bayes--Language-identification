@@ -1,0 +1,6 @@
+build.sbt
+COMPUTATIONAL LINGUISTICS PROJECT1.pdf
+dev.labeled
+evaluate.pl
+test.unlabeled
+train.labeled
